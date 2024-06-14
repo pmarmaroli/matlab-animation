@@ -1,6 +1,6 @@
 # matlab-animation
 
-## sound source localization - two microphone arrays:
+## sound source localization - two microphone arrays
 **video:** https://www.youtube.com/watch?v=gUbjNSG2UK4
 
 This animation beautifully demonstrates the fundamental physics of sound waves and their detection, highlighting how differences in wave arrival times can be used for localization.
