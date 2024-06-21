@@ -7,6 +7,7 @@
 
 clear all, close all, clc
 
+addpath("helpers\")
 % Parameters
 radius_max = 50; % Maximum radius of the wave
 sound_speed = 343; %m/s
