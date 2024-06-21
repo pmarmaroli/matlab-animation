@@ -1,4 +1,4 @@
-# matlab-animation
+# Matlab animations
 
 ## Visualizing Sound Wave Propagation and Time Delay Estimation
 
