@@ -1,6 +1,6 @@
 # matlab-animation
 
-## sound source localization - two microphone arrays
+## Visualizing Sound Wave Propagation and Time Delay Estimation
 
 **code:** https://github.com/pmarmaroli/matlab-animation/blob/main/sound_source_localization_tdoa_two_mics.m
 **video:** https://www.youtube.com/watch?v=gUbjNSG2UK4
